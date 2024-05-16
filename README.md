@@ -1,4 +1,4 @@
-# Kidney-Disease-Classification-MLflow-DVC
+# RCC-PROJECT
 
 
 ## Workflows
